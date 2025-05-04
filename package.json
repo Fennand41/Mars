@@ -1,0 +1,14 @@
+{
+  "name": "mars-weather",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "InSight Mars Weather API viewer",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "open": "^10.1.2"
+  }
+}
